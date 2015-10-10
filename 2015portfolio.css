@@ -19,7 +19,8 @@
 	    /*width: 334px;*/
     /*margin-top: 20px;*/
     /*padding: 5px 5px 0px 580px;*/
-    display: inline;
+    
+    display: block;
 
 
 }
@@ -34,7 +35,7 @@
     /*padding: 10px 15px 0px 0px;
     background: #fff;
     cursor: pointer;*/
-    display: inline;
+    display: inline-block;
 }
 
 /*.menu_link a {
