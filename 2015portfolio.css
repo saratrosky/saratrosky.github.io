@@ -29,7 +29,9 @@ a:hover{
 	    width: 334px;
     /*margin-top: 20px;*/
     
-    padding: 50px 10px 0px 10px;
+    /*padding: 50px 10px 0px 10px;*/
+    margin-left: auto ;
+  margin-right: auto ;
     
     display: block;
 
