@@ -26,10 +26,10 @@ a:hover{
 }
 
 .menu_outside {
-	    width: 60%;
+	    width: 334px;
     /*margin-top: 20px;*/
     
-    padding: 50px 100px 0px 400px;
+    padding: 50px 50px 0px 100px;
     
     display: block;
 
