@@ -33,10 +33,11 @@
     /*position: relative;*/
     /*padding: 10px 15px 0px 0px;
     background: #fff;
-    cursor: pointer;
+    cursor: pointer;*/
+    display: inline;
 }
 
-.menu_link a {
+/*.menu_link a {
     color: #373737;
     text-decoration: none;
 }*/
