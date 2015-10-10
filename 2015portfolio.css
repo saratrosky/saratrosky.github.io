@@ -9,15 +9,15 @@
 
 .body_style {
     font-family: futura;
-        display: block;
-    	margin: 60px;
+        /*display: block;*/
+    	/*margin: 60px;*/
 
 
 }
 
 .menu_outside {
 	    width: 334px;
-    margin-top: 20px;
+    /*margin-top: 20px;*/
     padding: 5px 5px 0px 580px;
 
 
@@ -27,9 +27,9 @@
 
 .menu_link {
     font: bold 12px/18px sans-serif;
-    display: inline-block;
-    margin-right: -4px;
-    position: relative;
+    /*display: inline-block;*/
+    /*margin-right: -4px;*/
+    /*position: relative;*/
     padding: 10px 15px 0px 0px;
     background: #fff;
     cursor: pointer;
