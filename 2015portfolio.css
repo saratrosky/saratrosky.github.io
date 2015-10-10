@@ -4,7 +4,17 @@
     /*display: block;*/
 }
 
+a {
+    color: #373737;
 
+
+}
+
+a:hover{
+
+    text-decoration: none;
+    color: #858585;
+}
 
 
 .body_style {
